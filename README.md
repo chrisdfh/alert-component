@@ -35,7 +35,7 @@ bloqueo: Boolean    Bloquea pantalla mientras se muestra el mensaje
 
 ## Ejemplos
 
-Muestra un mensaje por el tiempo predeterminado sin bloquar la pantalla
+Muestra un mensaje por el tiempo predeterminado sin bloquear la pantalla
 
 ```js
 showAlert("Mensaje");
